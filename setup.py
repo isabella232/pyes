@@ -94,7 +94,7 @@ else:
 
 setup(
     name='pyes',
-    version=meta['VERSION'],
+    version=meta['VERSION'] + '+dd.0',
     description="Python Elastic Search driver",
     author=meta['author'],
     author_email=meta['contact'],
